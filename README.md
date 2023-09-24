@@ -1,6 +1,6 @@
-# Project Title
+# AEMET Data
 
-[Project description]
+Tha aim is to create a SQL interface via DuckDB to weather information about all Spanish stations from AEMET for dacades so anyone can easily analyze it or draw charts
 
 ## Getting Started
 
@@ -52,12 +52,8 @@ Please replace `'your_api_key'` with your actual API key in the test_get_all_sta
 
 ## Authors
 
-[Your Name]
+Victoriano Izquierdo, Graphext Co-Founder
 
 ## License
 
 [License details]
-
-## Acknowledgments
-
-[Acknowledgments]
