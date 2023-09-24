@@ -1,6 +1,6 @@
 # AEMET Data
 
-Tha aim is to create a SQL interface via DuckDB to weather information about all Spanish stations from AEMET for dacades so anyone can easily analyze it or draw charts
+The goal of this project is to provide a SQL interface, powered by DuckDB, for accessing weather data from all Spanish stations recorded by AEMET over the past decades. This will enable users to easily analyze the data or create visualizations.
 
 ## Getting Started
 
